@@ -1,0 +1,30 @@
+.map{
+    width: 40%;
+    height: 400px;
+    margin: 20px;
+}
+b{
+    font-size: 20px;
+    margin: 80px;
+    padding: 90px;
+}
+.map2{
+    width: 40%;
+    height: 400px;
+    margin: 20px;
+    float: right;  
+}
+.box1{
+    background-color: white;
+    width:45%;
+    float: left;
+    margin-right: 3%;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.box2{
+    background-color: white;
+    width: 45%;
+    float: left;
+    margin-top: 10px;
+}

@@ -1,0 +1,61 @@
+#wrapper {
+    width: 1000px;
+    height: 500px;
+    margin-top: 50px;
+}
+#content {
+    margin-top: 50px;
+    width: 800px;
+    height: 400px;
+    float: left;
+    background-color: rgb(218, 218, 218);
+    margin-left: 360px;
+    font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 20px;
+    margin-left: 290px;
+}
+.dangnhap p {
+    text-align: center;
+    font-size: 30pt;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 100px;
+}
+p::after {
+    content: "";
+    position: absolute;
+    width: 500px;
+    height: 5px;
+    background-color: rgb(255, 255, 255);
+    top: 110px;
+    left: 34%;
+    margin-top: 50px;
+}
+label {
+    text-align: left;
+}
+.control {
+    margin: 5px;
+    text-align: left;
+    width: 500px;
+    border-radius: 5px;
+    height: 30px;
+}
+button {
+    border: 0;
+    padding: 10px 15px;
+    border-radius: 40px;
+    background-color:pink;
+}
+button a{
+    list-style: none;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-decoration: none;
+}
+button a:hover{
+    color: rgb(2, 1, 1);
+    font-weight: bold;
+}
+p{
+    text-align: center;
+}
